@@ -44,6 +44,8 @@ gem "bootsnap", require: false
 
 gem 'simple_form'
 gem 'annotate'
+gem 'i18n-tasks'
+gem 'rails-i18n'
 
 
 # Use Sass to process CSS
