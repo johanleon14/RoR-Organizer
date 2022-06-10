@@ -46,6 +46,7 @@ gem 'simple_form'
 gem 'annotate'
 gem 'i18n-tasks'
 gem 'rails-i18n'
+gem 'devise'
 
 
 # Use Sass to process CSS
